@@ -36,11 +36,11 @@ OutputDirectory/
 
 ### 3. Definition Document
 
-Foreach `{DefinitionTypeName}_Def.md`, follow the template [](/.codex/skills/skill.angushcy-data-driven/references/definition-template.md) to fill in the content based on the design decisions made for that entity.
+Foreach `{DefinitionTypeName}_Def.md`, follow the [template](/.codex/skills/skill.angushcy-data-driven/references/definition-template.md) to fill in the content based on the design decisions made for that entity.
 
 ### 4. Index Document
 
-After all definitions are created, produce the `_index.md` with following template [](/.codex/skills/skill.angushcy-data-driven/references/index-template.md) to summarize the system design, list all entities, and provide an ER diagram.
+After all definitions are created, produce the `_index.md` with following [template](/.codex/skills/skill.angushcy-data-driven/references/index-template.md) to summarize the system design, list all entities, and provide an ER diagram.
 
 ## Modification Mode
 
